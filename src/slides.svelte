@@ -15,8 +15,8 @@
 		// information about this presentation 
 		const author = "Anran Wang, Christian Schuler"; 
 		const authorshort = "Wang, Schuler"; 
-		const title = "This Is My Own Title";
-		const subtitle = "And here is my subtitle";
+		const title = "Energieverbrauch von Anwendungen";
+		const subtitle = "Maschinelles Lernen";
 		const department = "Department of Informatics"; 
 		const university = "Technical University of Munich"; 
 		var currentChapterName="";
